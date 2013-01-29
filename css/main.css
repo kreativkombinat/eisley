@@ -126,9 +126,11 @@ textarea {
   a,
   a:visited {
     text-decoration: underline;
+    color: white;
   }
   a[href]:after {
     content: " (" attr(href) ")";
+    color: white;
   }
   abbr[title]:after {
     content: " (" attr(title) ")";
@@ -137,6 +139,7 @@ textarea {
   a[href^="javascript:"]:after,
   a[href^="#"]:after {
     content: "";
+    color: white;
   }
   pre,
   blockquote {
@@ -203,7 +206,7 @@ body {
   background: url(../images/bg.gif) repeat;
 }
 a {
-  color: #666666;
+  color: white;
   text-decoration: none;
 }
 a:hover {
@@ -234,8 +237,22 @@ a:hover {
 
 .logo {
   margin: auto;
-  min-height: 500px;
+  min-height: 300px;
   width: 960px;
   background: url(../images/logo.png) no-repeat bottom right;
   border: 0px solid black;
 }
+
+.info {
+  border: 0px solid red;
+  color: white;
+  padding: 50px 0px 0px 0px;
+  text-align: right;
+}
+
+
+
+
+
+
+
