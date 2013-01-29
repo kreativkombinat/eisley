@@ -222,23 +222,23 @@ a:hover {
 
 
 .all {
-  background: url(../images/lines.png) no-repeat 100px 0px;
+  background: url(../images/lines.png) no-repeat 0px 0px;
   min-height: 600px;
-  width: 960px;
+  width: 800px;
   margin: auto;
 }
 
 .headwear {
-  background: url(../images/headwear.png) no-repeat 150px 50px;
+  background: url(../images/headwear.png) no-repeat 50px 50px;
   min-height: 100px;
-  width: 960px;
+  width: 800px;
   margin: auto;
 }
 
 .logo {
   margin: auto;
   min-height: 300px;
-  width: 960px;
+  width: 800px;
   background: url(../images/logo.png) no-repeat bottom right;
   border: 0px solid black;
 }
