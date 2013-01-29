@@ -222,7 +222,7 @@ a:hover {
 
 
 .all {
-  background: url(../images/lines.png) no-repeat 0px 0px;
+  background: url(../images/lines.png) no-repeat 0px -200px;
   min-height: 600px;
   width: 800px;
   margin: auto;
