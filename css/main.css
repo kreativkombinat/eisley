@@ -206,7 +206,7 @@ body {
   background: url(../images/bg.gif) repeat;
 }
 a {
-  color: white;
+  color: red;
   text-decoration: none;
 }
 a:hover {
@@ -246,8 +246,9 @@ a:hover {
 .info {
   border: 0px solid red;
   color: white;
-  padding: 50px 0px 0px 0px;
+  padding: 25px 0px 0px 0px;
   text-align: right;
+  line-height: 35px;
 }
 
 
