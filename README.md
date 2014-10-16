@@ -1,4 +1,4 @@
 eisley
 ======
 
-This repository holds the configuration and site packages for the eisley static website.
+This repository holds the configuration and packages for the static website.
